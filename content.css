@@ -1,24 +1,40 @@
 .page {
-  width:
-  height:
+  font-family: "Roboto", sans-serif;
+  background-color: pink;
+  padding: 30px;
+  margin: 0;
+  
 }
 
 #article_title {
-
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(146, 12, 12);
 }
 
 #intro {
+    color: rgb(63, 145, 172);
+    font-size: 22px;
 
 }
 
 .question{
-
+    color: rgb(63, 145, 172);
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .answer{
-
+    color: rgb(116, 192, 218);
+    font-size: 16px;
+    margin: 0;
 }
 
 #block_quote {
-
+    font-size: 22px;
+    padding: 10px;
+    margin-left: 70px;
+    border-left-style: solid;
+    border-left-color: gray;
+    border-left-width: 3px;
 }
